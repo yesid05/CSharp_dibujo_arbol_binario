@@ -1,0 +1,34 @@
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe.config
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.pdb
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.Properties.Resources.resources
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csproj.GenerateResource.Cache
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.pdb
+C:\Users\YCA\AppData\Local\Temporary Projects\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaInicial.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe.config
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.pdb
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.pdb
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csprojResolveAssemblyReference.cache
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaInicial.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.Properties.Resources.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csproj.GenerateResource.Cache
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaEscenario1.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaMenu.resources
+C:\Users\YCA\Documents\Visual Studio 2012\Projects\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaEscenario2.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe.config
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\bin\Debug\Practica4ArbolBinarioBusqueda.pdb
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaEscenario1.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaEscenario2.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaInicial.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.Properties.Resources.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.VentanaMenu.resources
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.exe
+C:\Users\PC\source\repos\Practica4ArbolBinarioBusqueda\Practica4ArbolBinarioBusqueda\obj\Debug\Practica4ArbolBinarioBusqueda.pdb
